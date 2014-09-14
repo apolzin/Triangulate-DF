@@ -1,0 +1,11 @@
+
+Triangulate v1.0 Delaunay Edition, (c) 2014 (GNU GPL 3.0 | CC BY-SA 3.0) Drew Parrish Lockheart
+
+License: 
+  
+  - GNU GPL 3.0 (http://opensource.org/licenses/GPL-3.0)
+  - CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/us/)
+
+Delaunay Triangulation v1.0 is free software. You may redistribute, copy and/or modify it under the terms of the GNU General Public License v3.0 and Creative Commons Attribution-ShareAlike 3.0 licenses.
+
+This software is distributed WITHOUT ANY WARRANTY.
