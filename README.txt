@@ -46,7 +46,6 @@ Features:
   - Quality Knob (1-10)
   - Blur Radius Knob (0-25)
   - Posterize Knob (2-255)
-  - Blend Switchboard (All possible blend modes*)
   - Filter Switchboard (All possible filter modes)
   - Triangulate! (Draws the Mesh while not in live edit mode)
   - Write (PNG, JPG, TIF & PDF)
