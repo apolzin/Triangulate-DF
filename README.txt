@@ -1,5 +1,4 @@
   
-Triangulate v1.0 Delaunay Edition (c) 2014 (GNU GPL 3.0 | CC BY-SA 3.0)
   
 ███████╗  █████╗         ██████╗  ███████╗ ██╗   ██╗
 ██╔════╝ ██╔══██╗        ██╔══██╗ ██╔════╝ ██║   ██║
@@ -7,8 +6,12 @@ Triangulate v1.0 Delaunay Edition (c) 2014 (GNU GPL 3.0 | CC BY-SA 3.0)
 ██║      ██╔══██║ ╚════╝ ██║  ██║ ██╔══╝   ╚██╗ ██╔╝
 ███████╗ ██║  ██║        ██████╔╝ ███████╗  ╚████╔╝ 
  ╚═════╝ ╚═╝  ╚═╝        ╚═════╝  ╚══════╝   ╚═══╝  
-   
+
+Triangulate v1.0 Delaunay Edition, Chaos Astrum (c) 2014 (GNU GPL 3.0 | CC BY-SA 3.0)
+
 Developed by DPLockheart.
+
+https://www.facebook.com/pages/Chaos-Astrum/259067527634739
 https://www.facebook.com/groups/DigitalArtistNexus
 
 Original code by Ale González. 
